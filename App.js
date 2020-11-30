@@ -1,5 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
+import Animated from 'react-native-reanimated';
 import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
